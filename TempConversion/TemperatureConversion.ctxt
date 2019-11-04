@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TemperatureConversion
+comment0.text=\r\n\ Given\ the\ temperature\ in\ either\ F,\ C\ or\ K,\ and\ then\r\n\ convert\ that\ one\ temperature\ to\ the\ other\ two\ units\ using\ \r\n\ a\ conversion\ formula.\ Then\ the\ results\ are\ displayed\ \r\n\ in\ an\ organized\ manner.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @version\ 11/11/18\r\n\ @period\ 1\r\n
+comment1.params=a
+comment1.target=TemperatureConversion(double)
+comment2.params=
+comment2.target=void\ givenF()
+comment3.params=
+comment3.target=void\ givenC()
+comment4.params=
+comment4.target=void\ givenK()
+comment5.params=
+comment5.target=java.lang.String\ last()
+numComments=6
